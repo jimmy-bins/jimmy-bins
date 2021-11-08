@@ -6,6 +6,8 @@
 
 📫  You can find me at [@JimmyBins](https://twitter.com/JimmyBins). 📫
 
+---
+
 # Projects
 
 A list of my current work.
