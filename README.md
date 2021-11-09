@@ -2,7 +2,7 @@
 
 👋 Hi, I’m @JimmyBins! 👋
 
-![An image of a sleepy Winter Bear NFT. Has a brown flat cap, a red hoodie, a pink flower necklace.](assets/jimmy-bins.png)
+![An image of a sleepy Winter Bear NFT. Has a brown flat cap, a red hoodie, a pink flower necklace.](assets/bins-circle.png)
 
 📫  You can find me at [@JimmyBins](https://twitter.com/JimmyBins) on Twitter. 📫
 
