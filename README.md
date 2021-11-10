@@ -1,12 +1,12 @@
 # About me
 
-👋&nbsp;Hi, I’m @JimmyBins!&nbsp;👋
+👋  Hi, I’m @JimmyBins!  👋
 
 ![An image of a sleepy Winter Bear NFT. Has a brown flat cap, a red hoodie, a pink flower necklace.](assets/bins-circle.png)
 
-📫 &nbsp;You can find me at [@JimmyBins](https://twitter.com/JimmyBins) on Twitter.&nbsp;📫
+📫   You can find me at [@JimmyBins](https://twitter.com/JimmyBins) on Twitter.  📫
 
-🎁&nbsp;You can support development of these tools by visiting my [tip jar](https://jimmy-bins.io/tipjar).&nbsp;🎁
+🎁  You can support development of these tools by visiting my [tip jar](https://jimmy-bins.io/tipjar).  🎁
 
 ---
 
