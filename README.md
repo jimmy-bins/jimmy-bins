@@ -6,6 +6,8 @@
 
 📫  You can find me at [@JimmyBins](https://twitter.com/JimmyBins) on Twitter. 📫
 
+🎁 You can support development of these tools by visiting my [tip jar](https://jimmy-bins.io/tipjar).
+
 ---
 
 # Projects
