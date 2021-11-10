@@ -18,3 +18,6 @@ If you'd like to send a tip to me, you can do so at the following addresses.
 
 **XTZ Address:** tz1fGzochLraohcQMdoGYfKesaNGzGLtxZNT
 
+---
+
+I encourage anyone who wants to contribute to select the lowest transaction cost network (or token) that works for you. Please don't pay high gas fees to send a tip!
