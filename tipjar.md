@@ -1,8 +1,8 @@
 # Tip Jar
 
-Thank you so much for helping to support the development of tools like this. 
+Thank you so much for helping to support the development of tools like the [OpenSea Portfolio Google Sheet](https://jimmy-bins.github.io#opensea-portfolio---floor-prices-google-sheet). 
 
-If you'd like to send a tip in crypto to me, you can do so at the following addresses.
+If you'd like to send a tip to me, you can do so at the following addresses.
 
 ---
 
