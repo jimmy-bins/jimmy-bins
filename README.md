@@ -12,9 +12,9 @@
 
 A list of my current work.
 
-## OpenSea Portfolio - Floor Prices (Google Sheet)
+## Jimmy Bins' OpenSea Tracker v0.4 (Google Sheet)
 
-Access here: [OpenSea Portfolio - Floor Prices (Google Sheet)](https://docs.google.com/spreadsheets/d/1gRqTrFS0BR6LTgnn8lv_baqEqUIOYhe2avEZ47QLj60/edit?usp=sharing)
+Access here: [Jimmy Bins' OpenSea Tracker v0.4 (Google Sheet)](https://docs.google.com/spreadsheets/d/1fF8B0pl00chUApp_OQgIq_Q2sZkZQYmW4xtvMEwZV_Q/edit?usp=sharing)
 
 This Google Sheet is a good way to get a ballpark estimate of your current NFT portfolio. You add your wallet address and it fetches the current price of ETH, the public items in your wallet & current floor prices on OpenSea, then gives you a total value. 
 
