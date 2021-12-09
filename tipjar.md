@@ -1,6 +1,6 @@
 # Tip Jar
 
-Thank you so much for helping to support the development of tools like the [OpenSea Portfolio Google Sheet](https://docs.google.com/spreadsheets/d/1gRqTrFS0BR6LTgnn8lv_baqEqUIOYhe2avEZ47QLj60/edit?usp=sharing). 
+Thank you so much for helping to support the development of tools like the [Jimmy Bins’ OpenSea Tracker](https://docs.google.com/spreadsheets/d/1fF8B0pl00chUApp_OQgIq_Q2sZkZQYmW4xtvMEwZV_Q/edit?usp=sharing). 
 
 If you'd like to send me a tip, you can do so at the following wallet addresses.
 
